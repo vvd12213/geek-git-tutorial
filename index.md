@@ -5,8 +5,7 @@
 '''  git config --global user.name "My Name"
 '''
 Далее необходимо обязательно указать адрес электронной почты пользователя через команду
-'''
-  git config --global user.email myEmail@example.com
+'''  git config --global user.email myEmail@example.com
 '''   
 ## Инициализация нового репозитория
 Для инициализации нового репозитория введите команду
